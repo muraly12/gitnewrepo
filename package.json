@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/muraly12/gitnewrepo/issues"
   },
-  "homepage": "https://github.com/muraly12/gitnewrepo#readme"
+  "homepage": "https://github.com/muraly12/gitnewrepo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
